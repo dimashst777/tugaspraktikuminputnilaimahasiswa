@@ -7,7 +7,7 @@ print("|                 PROGRAM INPUT NILAI MAHASISWA                  |")
 print("==================================================================")
 
 nilai = []                                                                            ## Membuat list nilai kosong
-perulangan = True                                                                     ## Membuat variable perulangan "true" untuk logika looping
+perulangan = True                                                                     ## Membuat variable perulangan"true" untuk logika looping
 
 while perulangan:                                                                     ## Looping
     nama = input("Masukkan Nama: ")                                                   ## Membuat variable nama untuk list dan menginputkan datanya
